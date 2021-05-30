@@ -1,0 +1,11 @@
+Summary of the Train Queue
+
+01. Maximum length of the queue - 2
+02. Maximum time spent in queue - 8
+03. Minimum time spent in queue - 6
+04. Average time spent in queue - 7
+
+Details of the passengers
+
+1.Name: ASHAN PRIYANJAN seat no.: 4 || Spent time in queue: 8
+2.Name: ARJUNA RANATHUNGA seat no.: 6 || Spent time in queue: 6
